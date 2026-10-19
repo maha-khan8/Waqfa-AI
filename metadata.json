@@ -1,0 +1,8 @@
+{
+  "name": "Waqfa AI",
+  "description": "An AI-powered gap-year planning assistant for students in Pakistan to turn an uncertain gap year into a structured, purposeful journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
